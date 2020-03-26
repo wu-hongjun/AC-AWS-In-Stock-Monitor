@@ -1,5 +1,4 @@
 # In-Stock-Monitor
-~~I JUST WANNA PLAY ANIMAL CROSSING ON A CUTE SWITCH FUCK~~
 
 ## Introduction
 * A small scraper I wrote to scrape Amazon for in stock alert on Amazon.
@@ -17,3 +16,4 @@
 
 ## Conclusion
 * May the god of Tom Nook bless all of us with a cute switch :P
+* ~~I JUST WANNA PLAY ANIMAL CROSSING ON A CUTE SWITCH FUCK~~
