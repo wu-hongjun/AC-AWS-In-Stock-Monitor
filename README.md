@@ -1,4 +1,4 @@
-# In-Stock-Monitor
+# Animal Crossing Amazon In Stock Monitor
 
 ## Introduction
 * A small scraper I wrote to scrape Amazon for in stock alert on Amazon.
